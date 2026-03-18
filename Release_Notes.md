@@ -30,6 +30,21 @@ This directory contains the ASM330LHHG1 component drivers.
 # Update history
 
 ::: {.collapse}
+<input type="checkbox" id="collapse-section2" checked aria-hidden="true">
+<label for="collapse-section2" aria-hidden="true">V1.1.0 / 18-Mar-2026</label>
+<div>
+
+## Main changes
+
+- (HEAD -> master, origin/master) Fix hp_slope_xl_en_t LP_ODR_DIV_4 hex value
+- Remove outdated incorrect comment
+- Fix xl_hp_path_on_out_set/get API and hp_slope_xl_en_t enum
+- Change switch cases to use hex values
+
+##
+
+</div>
+
 <input type="checkbox" id="collapse-section1" aria-hidden="true">
 <label for="collapse-section1" aria-hidden="true">V1.0.0 / 12-Feb-2026</label>
 <div>
